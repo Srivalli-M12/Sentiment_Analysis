@@ -13,6 +13,14 @@ This project is a **web-based sentiment analysis tool** designed for business in
 - **Frontend:** HTML, CSS, JavaScript
 - **Visualization:** Plotly for dynamic graph representation
 
+## Project Structure
+|-static 
+  ->style.css
+  ->script.js
+|-templates
+  ->index.html
+|-app.py
+
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
@@ -42,19 +50,7 @@ This project is a **web-based sentiment analysis tool** designed for business in
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and improve!
+### Contact
 
-## Contacts
-if you have any queries, feel free to contact me [
+For any queries, suggestions, or collaborations, feel free to reach out:[GitHub](https://github.com/SrivalliMannem)
 
-### 🔥 **Key Points for Resume**
-Here are 2-3 impactful points about your **Sentiment Analysis Project** that you can add to your resume:
-
-✅ **Developed a full-stack web application** integrating Flask and Plotly to perform **real-time business sentiment analysis**.  
-
-✅ **Engineered dynamic user interaction** with an intuitive front-end, featuring **interactive graphs and responsive styling** for better business insights.  
-
-✅ **Implemented advanced sentiment processing** using **VADER Sentiment Analysis**, ensuring accurate categorization of text-based data for decision-making.  
-
----
-
-This README will make your GitHub project stand out, and the resume points highlight your technical strengths! Let me know if you need any tweaks. 🚀🔥
