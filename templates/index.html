@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Sentiment Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Business Sentiment Analysis</h1>
+        <textarea id="inputText" placeholder="Enter business-related text here..."></textarea>
+        <button onclick="analyzeSentiment()">Analyze</button>
+        <div id="result"></div>
+        <div id="graph"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</body>
+</html>
