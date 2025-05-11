@@ -24,7 +24,7 @@ This project is a **web-based sentiment analysis tool** designed for business in
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SrivalliMannem/Sentiment_Analysis.git
+   git clone https://github.com/Srivalli-M12/Sentiment_Analysis.git
    ```
 2. **Navigate to the project folder**:
    ```bash
@@ -52,5 +52,5 @@ This project is a **web-based sentiment analysis tool** designed for business in
 This project is licensed under the MIT License. Feel free to modify and improve!
 ### Contact
 
-For any queries, suggestions, or collaborations, feel free to reach out:[GitHub](https://github.com/SrivalliMannem)
+For any queries, suggestions, or collaborations, feel free to reach out:[GitHub](https://github.com/Srivalli-M12)
 
